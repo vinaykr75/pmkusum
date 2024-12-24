@@ -10,7 +10,7 @@ TELEGRAM_TOKEN = "1914965034:AAHlwihnpmHYItKNSXlFGCYHQqhGsAs67EU"
 TELEGRAM_CHAT_ID = "-1002324009273"
 
 # API URL
-API_URL = "https://pmkapi.jharkhand.gov.in/api/JH/Compb_Consumer_Preregs/GetDistrictWiseQuota?sanction_id=0&District=323&PROJCD=null&%22%22"
+API_URL = "https://pmkapi.jharkhand.gov.in/api/JH/Compb_Consumer_Preregs/GetDistrictWiseQuota?sanction_id=0&District=607&PROJCD=null&%22%22"
 
 # Initialize previous RegQuota value
 previous_regquota_value = 0
