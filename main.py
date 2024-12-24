@@ -2,7 +2,9 @@ import requests
 import asyncio
 import time
 from telegram import Bot
+from keep_alive import keep_alive
 
+keep_alive()
 # Telegram Bot credentials
 TELEGRAM_TOKEN = "1914965034:AAHlwihnpmHYItKNSXlFGCYHQqhGsAs67EU"
 TELEGRAM_CHAT_ID = "-1002324009273"
